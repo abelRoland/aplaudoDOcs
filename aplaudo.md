@@ -13,7 +13,6 @@ The categories of the dropbown from the searchBar are:
 - All (default)
 - Concerts
 - Artists
-- Genre
 - Style
 - Instruments
 - Instrumentation
@@ -40,7 +39,6 @@ After the basic fields of the registration form (first name / last name / email 
  - Date: the date of the concert;
  - About: Text about the concert;
  - Style: List of styles of the concert (same list of styles of artists, but for each concert an artist can choose different values of styles;
- - Genre: List of genres of the concert (same list of genres of artists, but for each concert an artist can choose different values of genres;
  - Artist(s): The artist can choose if he/she will make the concert alone or with another musicians. In the case that the artist will make the concert with other musicians and this musicians are also registered on the platform, the user can tag this musician.
  - Instruments: List of instruments of the concert (same list of instruments of artists, but for each concert an artist can choose different values of instruments;
  - Instrumentation: List of instrumentation to choose.
@@ -58,8 +56,6 @@ After the basic fields of the registration form (first name / last name / email 
 - SoundCloud
 - LinkedIn
 - Website
-
-### Values for the genres
  
 ### Values for the styles
 
