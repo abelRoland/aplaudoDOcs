@@ -29,7 +29,7 @@ After the basic fields of the registration form (first name / last name / email 
  - Style: Dropdown list of styles for the artist to choose which styles he/she fits in.
  - Country: Dropdown list of countries for the artist to choose the country of origin.
  - Social MediaLinks: On the front-end, it will be like a to-do list, where the user can just push the button `ADD LINK`. When the user pushes this button it opens a table with two fields: "LINKS" and "VALUE". The user can choose which social he/she wants to add to the profile (YouTube / Spotify etc.) and then insert his/her personal profile on this social medias. After push submit the user will see the links that he/she added and can choose to add new links.
- An HTML file with the table is send to explain it in a more clear way. NOTE ON QUALITY: This is not something to focus too much if takes too much time, but it would be good that all the links that are added pass for validation, so YouTube links can just be added if YouTube is choosen and so on.  You can see the HTML example [here](https://github.com/abelRoland/aplaudoDOcs/blob/main/index.html) or [here](https://abelroland.github.io/aplaudoDOcs/) you can see the demo.
+ An HTML file with the table is send to explain it in a more clear way. NOTE ON QUALITY: This is not something to focus too much if takes too much time, but it would be good that all the links that are added pass for validation, so YouTube links can just be added if YouTube is choosen and so on.  You can see a very simple demo example [here](https://abelroland.github.io/aplaudoDOcs/).
  - Creations: Place where the user can put some links for YouTube videos. On the user profile that will be a carousel with the videos that the user upload.
  
  ## Fields for Concert
